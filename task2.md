@@ -4,10 +4,7 @@ The documentation should include:
 - YAML front matter with title, version, and date
 - Overview section explaining the service's purpose and capabilities
 - API Reference table listing all public methods with descriptions and return types
-- Examples section with:
- -- C# usage examples for each method
- -- cURL example for one method
- -- Sample JSON response
+- Examples section with: C# usage examples for each method, cURL example for one method, Sample JSON response
 - Error Codes table
 - Notes section about the documentation structure
 
